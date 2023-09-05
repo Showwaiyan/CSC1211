@@ -58,7 +58,7 @@ int main() {
         return 0;
     }
 
-    cout << "Tax is " << static_cast<int>(tax * 100) / 100.0 << endl;:wcerr
+    cout << "Tax is " << static_cast<int>(tax * 100) / 100.0 << endl;
 
     return 0;
 }
